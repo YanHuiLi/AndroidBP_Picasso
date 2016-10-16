@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Picasso_proj.iml" filepath="$PROJECT_DIR$/Picasso_proj.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picasso_listview/picasso_listview.iml" filepath="$PROJECT_DIR$/picasso_listview/picasso_listview.iml" />
     </modules>
   </component>
 </project>

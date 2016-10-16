@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private ImageView imageView;
-    private final String IMAGE_PATH="http//img4.imgtn.bdimg.com/it/u=1301259139,2025033435&fm=21&gp=0.jpg";
+    private final String IMAGE_PATH="http://img4.imgtn.bdimg.com/it/u=1301259139,2025033435&fm=21&gp=0.jpg";
 //    private final String IMAGE_PATH1="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYWtnFjJ-GcfUfuBN2FLpi_azpyM8uoO4rEMKHlTvZEETyaoRv90lzipU";
 //    private final String IMAGE_PATH1="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYWtnFjJ-GcfUfuBN2FLpi_azpyM8uoO4rEMKHlTvZEETyaoRv90lzipU";
     @Override
